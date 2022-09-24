@@ -1,4 +1,4 @@
-# Trajectory_Matching_Considering_Speed_and_Heading_Information (Jichong Yin, Fang Wu, Anping Li, Jiawei Du, Chengyi Liu)
+# Trajectory Matching Considering Speed and Heading Information (Jichong Yin, Fang Wu, Anping Li, Jiawei Du, Chengyi Liu)
 ![result1](https://user-images.githubusercontent.com/84856063/192087504-834ce7b9-b451-418d-9578-188624c244f9.png)
 ![result2](https://user-images.githubusercontent.com/84856063/192087506-458cbb80-00f4-422d-9b51-33ff19b63a8f.png)
 ![result3](https://user-images.githubusercontent.com/84856063/192087508-cb0bd14f-8d0a-45d8-9497-88ae335b024a.jpg)
